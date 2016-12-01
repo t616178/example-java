@@ -42,10 +42,6 @@ Please see [http://stackoverflow.com/questions/18107375/...](http://stackoverflo
 
 **Yes**, enter [codecov/example-android][3]
 
-#### Another question
-
-This is a pointless commit
-
 [0]: https://codecov.io/
 [1]: https://github.com/codecov/example-java
 [2]: https://github.com/codecov/example-gradle
